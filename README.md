@@ -40,7 +40,7 @@
 ## Tools
 
 - **Languages:** Java, C++  
-- **Platform:** [voidyounas](https://leetcode.com/voidyounas)  
+- **[voidyounas](https://leetcode.com/voidyounas)** 
 - **IDE:** VS Code + LeetSync Extension  
 - **Git:** GitHub version control for daily progress tracking
 
