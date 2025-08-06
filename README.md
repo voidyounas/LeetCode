@@ -49,7 +49,7 @@
 ## Progress
 
 - **Total Topics:** 20  
-- **Topics Completed:** 2  
+- **Topics Completed:** 3  
 - **In Progress:** 1  
 ---
 
