@@ -7,7 +7,7 @@
 - [x] Arrays  
 - [x] Strings  
 - [ ] Hashing  
-- [ ] Two Pointers  
+- [x] Two Pointers  
 - [ ] Sliding Window  
 - [ ] Binary Search  
 - [ ] Linked List  
